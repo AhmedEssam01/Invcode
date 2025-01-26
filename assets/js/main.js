@@ -99,6 +99,9 @@ function applyTextRotation(selector, degree) {
   
   // Apply rotation to the desired elements
   applyTextRotation(".animated-circle.bannerOne .text p", 8.3);
+  applyTextRotation(".animated-circle.bannerTwo .text p", 8.3);
+  applyTextRotation(".animated-circle.bannerThree .text p", 8.3);
+
   applyTextRotation(".animated-circle.about .text p", 8.3);
   applyTextRotation(".animated-circle.footer .text p", 8.3);
   applyTextRotation(".animated-circle.home-two .text p", 8.3);
